@@ -1,0 +1,6 @@
+vkbottle
+vkbottle-types
+requests
+aiosqlite
+schedule
+logging
